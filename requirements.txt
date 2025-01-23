@@ -1,0 +1,9 @@
+advertorch==0.2.3
+numpy==2.2.2
+pandas==2.2.3
+torch==2.0.0
+torchvision==0.15.1
+tqdm==4.56.2
+autoattack==0.1
+timm==1.0.11
+robustbench==1.1
